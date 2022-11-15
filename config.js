@@ -28,9 +28,9 @@ var config = {
         turn_on: "开始",
         play: "来点music?",
         bannar_coming: "加点装饰",
-        balloons_flying: "好像还少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
+        balloons_flying: "不够，再加！",
+        cake_fadein: "服务员，上蛋糕",
+        light_candle: "插上蜡烛",
         wish_message: "完美！",
         story: "A MESSAGE FOR YOU",
     }
