@@ -30,7 +30,7 @@ var config = {
         bannar_coming: "加点装饰",
         balloons_flying: "不够，再加！",
         cake_fadein: "服务员，上蛋糕",
-        light_candle: "插上蜡烛",
+        light_candle: "点上蜡烛",
         wish_message: "完美！",
         story: "A MESSAGE FOR YOU",
     }
